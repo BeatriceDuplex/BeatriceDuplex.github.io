@@ -55,6 +55,11 @@ img {
   margin-right: auto;
 }
 
+/* Logo images */
+.logo{
+    min-width: 10%px;
+}
+
 /* Main image*/
 .img-main{
     width: 100%;
